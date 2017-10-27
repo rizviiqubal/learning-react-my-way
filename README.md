@@ -3,7 +3,7 @@ Learning ReactJS my way
 
 
 * [x] Day 1 : [Follow tutorial](https://reactjs.org/tutorial/tutorial.html)
-* [ ] Day 2 : ...
+* [x] Day 2 : [Udemy](https://www.udemy.com/node-with-react-fullstack-web-development/learn/v4/overview)
 * [ ] Day 3 : ...
 
 #Reference
