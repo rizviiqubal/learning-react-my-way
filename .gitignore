@@ -1,2 +1,3 @@
 #Node installs ignore
 node_modules
+.vscode
